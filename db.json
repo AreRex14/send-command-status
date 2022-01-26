@@ -1,6 +1,6 @@
 {
     "returncode": 0,
-    "error": False,
+    "error": false,
     "error_msg": "",
     "task_status": "",
  }
